@@ -1,0 +1,1 @@
+Olá! Este repositório é referente ao primeiro Desafio de projeto do curso Formação em HTML Web Developer da DIO. Nele, você encontra os códigos do site que simula um resumo das aulas da primeira parte do curso.
